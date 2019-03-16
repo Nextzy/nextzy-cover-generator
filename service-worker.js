@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Nextzy/nextzy-cover-generator/precache-manifest.ab68e9a1704d99b103011a31489c709f.js"
+  "/nextzy-cover-generator/precache-manifest.3597acb38fc8c7d1b9b0444fcb262b90.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Nextzy/nextzy-cover-generator/index.html", {
+workbox.routing.registerNavigationRoute("/nextzy-cover-generator/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
