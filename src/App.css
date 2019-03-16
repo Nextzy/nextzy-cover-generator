@@ -1,33 +1,97 @@
+@import '~antd/dist/antd.css';
+
 .App {
+  background-color: whitesmoke;
+  height: 100vh;
   text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.cover-generator {
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.cover-generator-header {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-render {
+  margin-top: 1rem;
+  width: 30rem;
+  height: 17.5rem;
+  cursor: pointer;
+}
+
+.back-button {
+  width: fit-content;
+}
+
+.render-button {
+  margin-top: 2rem;
+}
+
+.upload-button {
+  width: 15rem;
+}
+
+.download-description {
+  margin-top: -1rem;
+  font-size: 0.5rem;
+}
+
+.text-margin {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-margin-label {
+  font-size: 0.8rem;
+  margin-left: 0.5rem;
+  text-align: start;
+}
+
+.text-margin-slider {
+  margin-top: 0;
+}
+
+.shadow-opacity {
+  display: flex;
+  flex-direction: column;
+}
+
+.shadow-opacity-label {
+  font-size: 0.8rem;
+  margin-left: 0.5rem;
+  text-align: start;
+}
+
+.shadow-opacity-slider {
+  margin-top: 0;
+}
+
+.image-quality {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-quality-label {
+  font-size: 0.8rem;
+  margin-left: 0.5rem;
+  text-align: start;
+}
+
+.image-quality-slider {
+  margin-top: 0;
+}
+
+.cover-text {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.cover-text-title {
 }
