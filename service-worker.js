@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nextzy-cover-generator/precache-manifest.3597acb38fc8c7d1b9b0444fcb262b90.js"
+  "/nextzy-cover-generator/precache-manifest.4b045cc5055487b582b6024670449318.js"
 );
 
 workbox.clientsClaim();

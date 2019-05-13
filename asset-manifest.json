@@ -1,16 +1,17 @@
 {
-  "main.css": "/nextzy-cover-generator/static/css/main.e9f50b75.chunk.css",
-  "main.js": "/nextzy-cover-generator/static/js/main.0054b8d5.chunk.js",
-  "main.js.map": "/nextzy-cover-generator/static/js/main.0054b8d5.chunk.js.map",
+  "main.css": "/nextzy-cover-generator/static/css/main.2db8eaa2.chunk.css",
+  "main.js": "/nextzy-cover-generator/static/js/main.730c3bc4.chunk.js",
+  "main.js.map": "/nextzy-cover-generator/static/js/main.730c3bc4.chunk.js.map",
   "runtime~main.js": "/nextzy-cover-generator/static/js/runtime~main.29220c6b.js",
   "runtime~main.js.map": "/nextzy-cover-generator/static/js/runtime~main.29220c6b.js.map",
   "static/css/2.d59217fb.chunk.css": "/nextzy-cover-generator/static/css/2.d59217fb.chunk.css",
-  "static/js/2.8899e11a.chunk.js": "/nextzy-cover-generator/static/js/2.8899e11a.chunk.js",
-  "static/js/2.8899e11a.chunk.js.map": "/nextzy-cover-generator/static/js/2.8899e11a.chunk.js.map",
+  "static/js/2.0bc04845.chunk.js": "/nextzy-cover-generator/static/js/2.0bc04845.chunk.js",
+  "static/js/2.0bc04845.chunk.js.map": "/nextzy-cover-generator/static/js/2.0bc04845.chunk.js.map",
   "index.html": "/nextzy-cover-generator/index.html",
-  "precache-manifest.3597acb38fc8c7d1b9b0444fcb262b90.js": "/nextzy-cover-generator/precache-manifest.3597acb38fc8c7d1b9b0444fcb262b90.js",
+  "precache-manifest.4b045cc5055487b582b6024670449318.js": "/nextzy-cover-generator/precache-manifest.4b045cc5055487b582b6024670449318.js",
   "service-worker.js": "/nextzy-cover-generator/service-worker.js",
   "static/css/2.d59217fb.chunk.css.map": "/nextzy-cover-generator/static/css/2.d59217fb.chunk.css.map",
-  "static/css/main.e9f50b75.chunk.css.map": "/nextzy-cover-generator/static/css/main.e9f50b75.chunk.css.map",
-  "static/media/UploadIcon.svg": "/nextzy-cover-generator/static/media/UploadIcon.1cedb6e9.svg"
+  "static/css/main.2db8eaa2.chunk.css.map": "/nextzy-cover-generator/static/css/main.2db8eaa2.chunk.css.map",
+  "static/media/UploadIcon.svg": "/nextzy-cover-generator/static/media/UploadIcon.1cedb6e9.svg",
+  "static/media/text_background.png": "/nextzy-cover-generator/static/media/text_background.5e3923a4.png"
 }
